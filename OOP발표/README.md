@@ -9,6 +9,9 @@
 ###
 # 2. 업그레이드
   
+PPT [객체지향.pdf](https://github.com/snowypark/OOP/files/11714340/default.pdf)
+
+
 ###
 
 ![Animation12](https://github.com/snowypark/OOP/assets/100844814/82c63c4c-4520-4de3-8270-46167967ea04)  
