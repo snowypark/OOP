@@ -1,0 +1,11 @@
+D:\ZYSTEM\Desktop\OOP\sample\sample\obj\Debug\sample.csproj.AssemblyReference.cache
+D:\ZYSTEM\Desktop\OOP\sample\sample\obj\Debug\sample.csproj.SuggestedBindingRedirects.cache
+D:\ZYSTEM\Desktop\OOP\sample\sample\obj\Debug\sample.Properties.Resources.resources
+D:\ZYSTEM\Desktop\OOP\sample\sample\obj\Debug\sample.csproj.GenerateResource.cache
+D:\ZYSTEM\Desktop\OOP\sample\sample\obj\Debug\sample.csproj.CoreCompileInputs.cache
+D:\ZYSTEM\Desktop\OOP\sample\sample\bin\Debug\sample.exe.config
+D:\ZYSTEM\Desktop\OOP\sample\sample\bin\Debug\sample.exe
+D:\ZYSTEM\Desktop\OOP\sample\sample\bin\Debug\sample.pdb
+D:\ZYSTEM\Desktop\OOP\sample\sample\obj\Debug\sample.Form1.resources
+D:\ZYSTEM\Desktop\OOP\sample\sample\obj\Debug\sample.exe
+D:\ZYSTEM\Desktop\OOP\sample\sample\obj\Debug\sample.pdb
